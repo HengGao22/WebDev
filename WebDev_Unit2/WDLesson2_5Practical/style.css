@@ -6,7 +6,7 @@
                 using rgb( )
 */
 #banner{
-    
+    color:rgb (0:0:200);
 }
 /* Challenge 10: Change the background color for all elements with a class of subbanner.  Choose a color
                 using a hexdecimal value. 
