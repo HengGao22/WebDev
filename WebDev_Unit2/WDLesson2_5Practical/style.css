@@ -31,7 +31,7 @@ h1, p{
                  apply some other type of styling.
 */
 #secondGallery img:hover {
-     filter: brightness(50%); 
+    filter: brightness(50%); 
 }
 /* Challenge 14: Change the transition for all elements to 1 second */
 
