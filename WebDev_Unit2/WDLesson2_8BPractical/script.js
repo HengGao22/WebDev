@@ -1,3 +1,6 @@
+/* Challenge 2: Use w3SchoolsMockUp.png to help you write the necessary CSS rules.
+   Hint: Remember all the fundamental CSS rules when working with flexboxes */
+
 body {
   margin: 3px;
   font-family: Arial;
